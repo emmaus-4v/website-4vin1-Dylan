@@ -48,6 +48,11 @@ img.zweefRechts {
 
 .smalltext {
     font-size: 0.7em;
+    color:tomato;
+}
+
+#eigennaam {
+    color:greenyellow;
 }
 
 a {
@@ -56,11 +61,42 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: underline skyblue;
 }
 
 
 /* navigatiebalk */
+nav ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 0;
+    background-color: #1d241b;
+    overflow: hidden;
+}
+
+nav ul li {
+    /*float: left;*/
+}
+
+nav li a {
+    display: block;
+    color: skyblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #1d241b;
+}
+
+nav li a.active {
+    background-color: #1d241b;
+}
+
+
+
+/*
 nav ul {
     list-style-type: none;
     margin: auto;
@@ -75,7 +111,7 @@ nav ul li {
 
 nav li a {
     display: block;
-    color: white;
+    color: skyblue;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -88,7 +124,7 @@ nav li a:hover {
 nav li a.active {
     background-color: #1d241b;
 }
-
+*/
 
 
 
