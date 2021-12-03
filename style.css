@@ -6,13 +6,13 @@ html, body {
     background-color: #1d241b;  
     
     color: #ffffff;
-    font: Verdana, Arial, Sans-Serif;
+    font-family: Arial, Sans-Serif;
 }
 
 
 main {
     margin: 0 auto;
-    width: 700px;
+    width: 800px;
     position: relative;
 }
 
@@ -68,8 +68,9 @@ a:hover {
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
-    margin: auto;
+    display: flex;
     padding: 0;
+    justify-content: space-between;
     background-color: #000000;
     overflow: hidden;
 }
@@ -79,15 +80,16 @@ nav ul li {
 }
 
 nav li a {
+    
     display: block;
     color: skyblue;
     text-align: center;
-    padding: 25px 23.6px;
+    padding: 14px 18px;
     text-decoration: none;
 }
 
 nav li a:hover {
-    background-color: #ca2e2e;
+    background-color: #000000;
 }
 nav li a.active {
     background-color: #1d241b;
