@@ -25,16 +25,16 @@ Stap 2: Bestandsstructuur opzetten
 Stap 3: Lay-out 
 - [ x] Je hebt de lay-out (welk onderdeel komt waar op het scherm) van je pagina’s gekozen. Het is handig om voor al je pagina’s dezelfde lay-out te gebruiken. 
 - [ ] HAVO: Voor de layout heb je het ontwerp van de voorbeeldwebsite uitgebreid en aangepast aan jouw onderwerp 
-- [ ] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
+- [ x] VWO: Voor de layout heb je je eigen ontwerp (wireframe) gemaakt en je hebt hiervoor zelf de basis html en CSS gemaakt.
 - [ ] Je hebt de onderdelen uit de layout in je html benoemd met tags, classes en/of ID’s. Je hebt met CSS ervoor gezorgd dat deze onderdelen op de juiste plaats op de pagina worden weergegeven.
 
 Stap 4: Inhoud en plaatjes 
-- [ ] Je hebt in html de inhoud op je hoofdpagina en al je subpagina’s gezet. 
-- [ ] Je hebt plaatjes bij je inhoud gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
+- [ x] Je hebt in html de inhoud op je hoofdpagina en al je subpagina’s gezet. 
+- [ x] Je hebt plaatjes bij je inhoud gezocht, omgezet naar de juiste resolutie en op je website gezet. Alle plaatjes moet je opslaan, je linkt niet naar plaatjes op andere websites, die kunnen immers verwijderd worden. 
 
 Stap 5: Kleuren 
-- [ ] Je hebt kleuren en fonts gekozen. 
-- [ ] Je hebt de kleuren en fonts in CSS toegevoegd. 
+- [ x] Je hebt kleuren en fonts gekozen. 
+- [ x] Je hebt de kleuren en fonts in CSS toegevoegd. 
 
 Stap 6: Perfectioneren 
 - [ ] Je hebt slordigheden in de lay-out, kleuren en inhoud gerepareerd. 
